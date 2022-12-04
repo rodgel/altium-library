@@ -1,0 +1,34 @@
+PCAD Importer Log
+Project : CMT-8540S-SMT.LibPkg
+
+Section : E:\project\touch\test98\CMT-8540S-SMT\CMT-8540S-SMT.lia
+    Section : PCB Library - CMT-8540S-SMT.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 91
+            Warning - 1 : Skipping Token isVisible On Line 94
+            Warning - 1 : Skipping Token CMT-8540S-SMT On Line 122
+            Warning - 1 : Skipping Token attachedSymbol On Line 179
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*CUI_CMT-8540S-SMT][Primary] associated with PCAD Component [CMT-8540S-SMT] has been renamed to PCB FootPrint [*CUI_CMT-8540S-SMT_CMT-8540S-SMT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - CMT-8540S-SMT.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 98
+            Warning - 1 : Skipping Token layerContents On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 114
+            Warning - 1 : Skipping Token isVisible On Line 153
+            Warning - 1 : Skipping Token isVisible On Line 156
+        EndSection
+
+        Section : Generating SCH Library - CMT-8540S-SMT.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*CUI_CMT-8540S-SMT][Primary] associated with PCAD Component [CMT-8540S-SMT] has been renamed to PCB FootPrint [*CUI_CMT-8540S-SMT_CMT-8540S-SMT(Primary)].
+        EndSection
+    EndSection
+EndSection
